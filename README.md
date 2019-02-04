@@ -14,5 +14,5 @@ The application was deployed on AWS light stall configuration steps:
 
 ## Access details
 * IP: 18.184.86.204
-* URL of the web application: http://18.184.86.204/login
+* URL of the web application: http://18.184.86.204
 * SSH port 2200
